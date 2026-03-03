@@ -60,6 +60,12 @@ src/
 ├── main.ts                        # Application bootstrap
 └── index.html                     # HTML template
 ```
+---
+
+## OUTOUT
+<img width="1557" height="806" alt="image" src="https://github.com/user-attachments/assets/4c1d195a-2590-4231-a144-548ca7fa15d1" />
+<img width="1116" height="804" alt="image" src="https://github.com/user-attachments/assets/86180ad3-aa0a-4aed-8c56-8fab38aaf5b2" />
+![Uploading image.png…]()
 
 ## 🚀 Getting Started
 
@@ -305,3 +311,4 @@ npm start
 ```
 
 Navigate to `http://localhost:4200/`
+
