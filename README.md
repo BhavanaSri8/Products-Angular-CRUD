@@ -65,7 +65,7 @@ src/
 ## OUTOUT
 <img width="1557" height="806" alt="image" src="https://github.com/user-attachments/assets/4c1d195a-2590-4231-a144-548ca7fa15d1" />
 <img width="1116" height="804" alt="image" src="https://github.com/user-attachments/assets/86180ad3-aa0a-4aed-8c56-8fab38aaf5b2" />
-![Uploading image.png…]()
+<img width="1186" height="822" alt="image" src="https://github.com/user-attachments/assets/33e1ab6f-4e09-410c-b3e6-6120ced4e205" />
 
 ## 🚀 Getting Started
 
